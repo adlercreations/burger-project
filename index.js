@@ -1,3 +1,3 @@
-const name = prompt("Whats your name?")
-alert("Hello World!")
-console.log("Goodbye!")
+const myName = prompt("Whats your name?")
+
+console.log(myName)
